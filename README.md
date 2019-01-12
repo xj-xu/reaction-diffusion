@@ -5,15 +5,15 @@ The [Gray Scott model](https://groups.csail.mit.edu/mac/projects/amorphous/GrayS
 
 ### Zebrafish
 <video height="400" width="600" controls autoplay loop>
-  <source src="/reaction-diffusion/zebrafish.mp4" type="video/mp4">
+  <source src="/videos/zebrafish.mp4" type="video/mp4">
 </video>
 
 ### Fingerprint
 <video height="400" width="600" controls autoplay loop>
-  <source src="/reaction-diffusion/fingerprint.mp4" type="video/mp4">
+  <source src="/videos/fingerprint.mp4" type="video/mp4">
 </video>
 
 ### Bacteria growth
 <video height="400" width="600" controls autoplay loop>
-  <source src="/reaction-diffusion/bacteria1.mp4" type="video/mp4">
+  <source src="/videos/bacteria1.mp4" type="video/mp4">
 </video>
